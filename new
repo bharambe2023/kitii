@@ -2,5 +2,11 @@
 import java util *;
 public static void main(String[] args) 
 {
+    
     System.out.print("hii, I am rutuja ");
+    int a=20;
+    int b=10;
+    int c;
+    c=a+b;
+    System.out.print("addition of two numbers"+c);
 }
