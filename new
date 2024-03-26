@@ -9,4 +9,5 @@ public static void main(String[] args)
     int c;
     c=a+b;
     System.out.print("addition of two numbers"+c);
+    System.out.print("your all changes are accepeted");
 }
